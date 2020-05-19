@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Иванов Александр",
+    "SalaryType": 1,
+    "Salary": 2200
+  },
+  {
+    "Id": 2,
+    "Name": "Самойлов Сергей",
+    "SalaryType": 1,
+    "Salary": 1400
+  },
+  {
+    "Id": 3,
+    "Name": "Калугина Светлана",
+    "SalaryType": 1,
+    "Salary": 1750
+  },
+  {
+    "Id": 4,
+    "Name": "Петров Константин",
+    "SalaryType": 1,
+    "Salary": 1800
+  },
+  {
+    "Id": 5,
+    "Name": "Егоров Станислав",
+    "SalaryType": 1,
+    "Salary": 1800
+  },
+  {
+    "Id": 6,
+    "Name": "Краснова Ольга",
+    "SalaryType": 2,
+    "Salary": 9.5
+  },
+  {
+    "Id": 7,
+    "Name": "Синельников Олег",
+    "SalaryType": 2,
+    "Salary": 9.5
+  },
+  {
+    "Id": 8,
+    "Name": "Измайлова Анна",
+    "SalaryType": 2,
+    "Salary": 8
+  },
+  {
+    "Id": 9,
+    "Name": "Романенко Глеб",
+    "SalaryType": 2,
+    "Salary": 9
+  },
+  {
+    "Id": 10,
+    "Name": "Новиков Алексей",
+    "SalaryType": 2,
+    "Salary": 10
+  }
+]
