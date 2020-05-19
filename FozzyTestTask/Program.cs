@@ -26,7 +26,7 @@ namespace FozzyTestTask
             {
                 Console.WriteLine($"{ex.Message}{Environment.NewLine}");
                 Console.ReadKey();
-                throw;
+                return;
             }
             
             var employeeList = listFromFile?.ToEmployee()
